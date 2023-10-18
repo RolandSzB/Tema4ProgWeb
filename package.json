@@ -1,0 +1,8 @@
+{
+  "name": "tema4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RolandSzB/Tema4ProgWeb.git",
+  "author": "SziBe Roland <roland.szilagyi-benedek@emanuel.ro>",
+  "license": "MIT"
+}
